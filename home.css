@@ -63,7 +63,7 @@ a {
 
 /*OK?*/
 #ok {
-	margin-top: 62px;
+	margin-top: 60px;
 	margin-left: auto;
 	margin-right: auto;
 	color: #ff0000;
@@ -74,7 +74,7 @@ a {
 
 /*大丈夫*/
 #message {
-	margin-top: 16px;
+	margin-top: 2px;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
