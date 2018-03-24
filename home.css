@@ -203,7 +203,7 @@ a {
 
 	/*OK?*/
 	#ok {
-		margin-top: 56px;
+		margin-top: 40px;
 		margin-left: auto;
 		margin-right: auto;
 		color: #ff0000;
@@ -222,12 +222,12 @@ a {
 		color: #FFF;/*文字・アイコン色*/
 	  border-radius: 10px;/*角丸に*/
 	  display: inline-block;
-	  height: 60px;/*高さ*/
+	  height: 54px;/*高さ*/
 	  width: 80%;/*幅*/
 		max-width: 360px;
 	  text-align: center;/*中身を中央寄せ*/
-	  font-size: 18px;/*文字のサイズ*/
-	  line-height: 36px;/*高さと合わせる*/
+	  font-size: 14px;/*文字のサイズ*/
+	  line-height: 20px;/*高さと合わせる*/
 	  vertical-align: middle;/*垂直中央寄せ*/
 	  background: #2222ee;
 	  overflow: hidden;/*はみ出た部分を隠す*/
@@ -245,12 +245,12 @@ a {
 		color: #FFF;/*文字・アイコン色*/
 	  border-radius: 10px;/*角丸に*/
 	  display: inline-block;
-	  height: 60px;/*高さ*/
+	  height: 54px;/*高さ*/
 	  width: 80%;/*幅*/
 		max-width: 360px;
 	  text-align: center;/*中身を中央寄せ*/
-	  font-size: 18px;/*文字のサイズ*/
-	  line-height: 36px;/*高さと合わせる*/
+	  font-size: 14px;/*文字のサイズ*/
+	  line-height: 20px;/*高さと合わせる*/
 	  vertical-align: middle;/*垂直中央寄せ*/
 	  background: #2222ee;
 	  overflow: hidden;/*はみ出た部分を隠す*/
@@ -268,12 +268,12 @@ a {
 		color: #FFF;/*文字・アイコン色*/
 	  border-radius: 10px;/*角丸に*/
 	  display: inline-block;
-	  height: 60px;/*高さ*/
+	  height: 54px;/*高さ*/
 	  width: 80%;/*幅*/
 		max-width: 360px;
 	  text-align: center;/*中身を中央寄せ*/
-	  font-size: 18px;/*文字のサイズ*/
-	  line-height: 36px;/*高さと合わせる*/
+	  font-size: 14px;/*文字のサイズ*/
+	  line-height: 20px;/*高さと合わせる*/
 	  vertical-align: middle;/*垂直中央寄せ*/
 	  background: #2222ee;
 	  overflow: hidden;/*はみ出た部分を隠す*/
