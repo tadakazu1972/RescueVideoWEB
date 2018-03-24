@@ -222,62 +222,65 @@ a {
 		color: #FFF;/*文字・アイコン色*/
 	  border-radius: 10px;/*角丸に*/
 	  display: inline-block;
-	  height: 54px;/*高さ*/
+	  height: 50px;/*高さ*/
 	  width: 80%;/*幅*/
 		max-width: 360px;
 	  text-align: center;/*中身を中央寄せ*/
-	  font-size: 14px;/*文字のサイズ*/
+	  font-size: 16px;/*文字のサイズ*/
 	  line-height: 20px;/*高さと合わせる*/
 	  vertical-align: middle;/*垂直中央寄せ*/
 	  background: #2222ee;
 	  overflow: hidden;/*はみ出た部分を隠す*/
 	  text-decoration:none;/*下線は消す*/
 	  border: solid 2px #ffffff;
+		padding-top:8px;
 	}
 
 	/*小児ボタン*/
 	.btnChild {
 		position: absolute;
-		top: 60%;
+		top: 56%;
 		left: 50%;
 		transform: translateX(-50%);
 		-webkit- transform: translateX(-50%);
 		color: #FFF;/*文字・アイコン色*/
 	  border-radius: 10px;/*角丸に*/
 	  display: inline-block;
-	  height: 54px;/*高さ*/
+	  height: 50px;/*高さ*/
 	  width: 80%;/*幅*/
 		max-width: 360px;
 	  text-align: center;/*中身を中央寄せ*/
-	  font-size: 14px;/*文字のサイズ*/
+	  font-size: 16px;/*文字のサイズ*/
 	  line-height: 20px;/*高さと合わせる*/
 	  vertical-align: middle;/*垂直中央寄せ*/
 	  background: #2222ee;
 	  overflow: hidden;/*はみ出た部分を隠す*/
 	  text-decoration:none;/*下線は消す*/
 	  border: solid 2px #ffffff;
+		padding-top:8px;
 	}
 
 	/*乳児ボタン*/
 	.btnBaby {
 		position: absolute;
-		top: 80%;
+		top: 72%;
 		left: 50%;
 		transform: translateX(-50%);
 		-webkit- transform: translateX(-50%);
 		color: #FFF;/*文字・アイコン色*/
 	  border-radius: 10px;/*角丸に*/
 	  display: inline-block;
-	  height: 54px;/*高さ*/
+	  height: 50px;/*高さ*/
 	  width: 80%;/*幅*/
 		max-width: 360px;
 	  text-align: center;/*中身を中央寄せ*/
-	  font-size: 14px;/*文字のサイズ*/
+	  font-size: 16px;/*文字のサイズ*/
 	  line-height: 20px;/*高さと合わせる*/
 	  vertical-align: middle;/*垂直中央寄せ*/
 	  background: #2222ee;
 	  overflow: hidden;/*はみ出た部分を隠す*/
 	  text-decoration:none;/*下線は消す*/
 	  border: solid 2px #ffffff;
+		padding-top:8px;
 	}
 }
