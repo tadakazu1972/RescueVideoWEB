@@ -168,5 +168,116 @@ a {
 
 /* iPhone5s, SE ---------------------------------------------*/
 @media (max-width:320px){
+	/*チェックボックス1*/
+	#checkbox1 {
+		position: absolute;
+		left: 10%;
+		top: 10%;
+	}
 
+	/*119*/
+	#call {
+		position: absolute;
+		left: 20%;
+		top: 9%;
+		color: #ff0000;
+		font-size: 24px;
+		font-weight: bold;
+	}
+
+	#checkbox2 {
+		position: absolute;
+		right: 41%;
+		top: 10%;
+	}
+
+	/*AED*/
+	#aed {
+		position: absolute;
+		right: 20%;
+		top: 9%;
+		color: #ff0000;
+		font-size: 24px;
+		font-weight: bold;
+	}
+
+	/*OK?*/
+	#ok {
+		margin-top: 56px;
+		margin-left: auto;
+		margin-right: auto;
+		color: #ff0000;
+		text-align: center;
+		font-size: 24px;
+		font-weight: bold;
+	}
+
+	/*成人ボタン*/
+	.btnAdult {
+		position: absolute;
+		top: 40%;
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit- transform: translateX(-50%);
+		color: #FFF;/*文字・アイコン色*/
+	  border-radius: 10px;/*角丸に*/
+	  display: inline-block;
+	  height: 60px;/*高さ*/
+	  width: 80%;/*幅*/
+		max-width: 360px;
+	  text-align: center;/*中身を中央寄せ*/
+	  font-size: 18px;/*文字のサイズ*/
+	  line-height: 36px;/*高さと合わせる*/
+	  vertical-align: middle;/*垂直中央寄せ*/
+	  background: #2222ee;
+	  overflow: hidden;/*はみ出た部分を隠す*/
+	  text-decoration:none;/*下線は消す*/
+	  border: solid 2px #ffffff;
+	}
+
+	/*小児ボタン*/
+	.btnChild {
+		position: absolute;
+		top: 60%;
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit- transform: translateX(-50%);
+		color: #FFF;/*文字・アイコン色*/
+	  border-radius: 10px;/*角丸に*/
+	  display: inline-block;
+	  height: 60px;/*高さ*/
+	  width: 80%;/*幅*/
+		max-width: 360px;
+	  text-align: center;/*中身を中央寄せ*/
+	  font-size: 18px;/*文字のサイズ*/
+	  line-height: 36px;/*高さと合わせる*/
+	  vertical-align: middle;/*垂直中央寄せ*/
+	  background: #2222ee;
+	  overflow: hidden;/*はみ出た部分を隠す*/
+	  text-decoration:none;/*下線は消す*/
+	  border: solid 2px #ffffff;
+	}
+
+	/*乳児ボタン*/
+	.btnBaby {
+		position: absolute;
+		top: 80%;
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit- transform: translateX(-50%);
+		color: #FFF;/*文字・アイコン色*/
+	  border-radius: 10px;/*角丸に*/
+	  display: inline-block;
+	  height: 60px;/*高さ*/
+	  width: 80%;/*幅*/
+		max-width: 360px;
+	  text-align: center;/*中身を中央寄せ*/
+	  font-size: 18px;/*文字のサイズ*/
+	  line-height: 36px;/*高さと合わせる*/
+	  vertical-align: middle;/*垂直中央寄せ*/
+	  background: #2222ee;
+	  overflow: hidden;/*はみ出た部分を隠す*/
+	  text-decoration:none;/*下線は消す*/
+	  border: solid 2px #ffffff;
+	}
 }
